@@ -1,7 +1,8 @@
 # ssh_log_monitoring
 
-## Assuming mailutils is preconfigured
-## Edit the recipient variable in script to own mail id
+## Prerequisites
+Assuming mailutils is preconfigured
+Edit the recipient variable in script to own mail id
 
 If added in cron job will send ssh log for authenticated and failed logins for the ssh server
 
